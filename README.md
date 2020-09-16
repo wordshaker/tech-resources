@@ -39,6 +39,13 @@
 
 <br/>
 
+# Design Patterns
+
+- [Design Patterns From Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [Refactoring and Design Patterns](https://refactoring.guru/)
+
+<br/>
+
 # .NET
 
 ## C#
